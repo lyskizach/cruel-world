@@ -49,8 +49,10 @@ a {
 p {
     font-size: 16px;
 }
+
 /* moved search-engine-optimization and following selectors and properties to follow the semantic structure */
 /* consolidated elements that have identical styling */
+
 .search-engine-optimization, .online-reputation-management, .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -60,6 +62,7 @@ p {
     color: #ffffff;
 }
 /* consolidated elements that have identical styling */
+
 .search-engine-optimization img, .online-reputation-management img, .social-media-marketing img {
     max-height: 200px;
 }
